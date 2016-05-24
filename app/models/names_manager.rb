@@ -125,6 +125,7 @@ module NamesManager
   map "Valeriy Sizov",              "Valery Sizov", "vsizov"
   map "Achilleas Pipinellis",       "axilleas", "Axilleas Pipinellis"
   map "Miks Miķelsons",             "miks"
+  map "Connor Shea",                "connorshea"
 
   # Reverse SEEN_ALSO_AS to be able to go from handler to canonical name.
   CANONICAL_NAME_FOR = {}
